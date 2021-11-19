@@ -10,7 +10,8 @@ namespace repo1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("welcome to repository1")
+            Console.WriteLine("welcome to repository1");
+            Console.WriteLine("line of repository1");
         }
     }
 }
